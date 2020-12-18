@@ -1,9 +1,15 @@
-### Hi there 👋
+## Hi There, I'm Kelsie!👋
+
+![Kelsie's github stats](https://github-readme-stats.vercel.app/api?username=kelsiebesingeryeh&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsiebesingeryeh&theme=radical)](https://github.com/kelsiebesingeryeh/github-readme-stats)
+
 
 I'm Kelsie and I'm currently enrolled in the Frontend Software Engineering Program at the Turing School of Software and Design. 
 
 * 🔭 I'm currently learning about network request API calls!
 * ⚡ What I like to do:
+
   * Enjoy cooking plant-based meals 🌱
   * Reading non-fiction books 📚
   * Hiking with my energetic dog 🐕
