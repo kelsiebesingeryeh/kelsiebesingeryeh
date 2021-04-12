@@ -7,7 +7,7 @@
 
 I'm Kelsie and I'm currently enrolled in the Frontend Software Engineering Program at the Turing School of Software and Design. 
 
-* 🔭 I'm currently learning React!
+* 🔭 I'm currently learning GraphQL/Apollo!
 * ⚡ What I like to do:
 
   * Enjoy cooking plant-based meals 🌱
